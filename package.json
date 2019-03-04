@@ -1,0 +1,32 @@
+{
+  "name": "newbook",
+  "version": "1.0.0",
+  "description": "新电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoqianyi1997/newbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoqianyi1997/newbook/issues"
+  },
+  "homepage": "https://github.com/zhaoqianyi1997/newbook#readme"
+    "devDependencies": {
+          "eslint": "^4.19.1",
+              "grunt": "^1.0.3",
+                  "grunt-contrib-copy": "^1.0.0",
+                      "grunt-contrib-csslint": "^2.0.0",
+                          "grunt-contrib-cssmin": "^2.2.1",
+                              "grunt-contrib-htmlmin": "^2.4.0",
+                                  "grunt-contrib-imagemin": "^2.0.1",
+                                      "grunt-contrib-uglify": "^3.3.0",
+                                          "grunt-htmlhint": "^0.9.13"
+                                              
+    }
+}
